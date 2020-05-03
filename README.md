@@ -45,8 +45,8 @@ treated pretty much like a normal list except that it will take 4l bytes (as is 
 
 In my program I could take as input:
 -	the [training dataset]()
--	[trueclass label]() file for training points
--	[test dataset]() 
+-	[trueclass label](https://github.com/Gonnuru/Simulated_Single_Nucleotide_Polymorphism/blob/master/train_labels.txt) file for training points
+-	[test dataset](https://github.com/Gonnuru/Simulated_Single_Nucleotide_Polymorphism/blob/master/testdata.rar) 
 
 ### Output
 I have achieved an [output](https://github.com/Gonnuru/Simulated_Single_Nucleotide_Polymorphism/blob/master/Output.txt) with an accuracy of 65%
