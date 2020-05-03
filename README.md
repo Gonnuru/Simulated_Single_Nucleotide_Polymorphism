@@ -44,7 +44,7 @@ In the beginning of my program. Suppose we have a list of n float called l. This
 treated pretty much like a normal list except that it will take 4l bytes (as is done in C or C++). One may also use numpy arrays for efficient storage.
 
 In my program I could take as input:
--	the [training dataset]()
+-	[training dataset]()
 -	[trueclass label](https://github.com/Gonnuru/Simulated_Single_Nucleotide_Polymorphism/blob/master/train_labels.txt) file for training points
 -	[test dataset](https://github.com/Gonnuru/Simulated_Single_Nucleotide_Polymorphism/blob/master/testdata.rar) 
 
